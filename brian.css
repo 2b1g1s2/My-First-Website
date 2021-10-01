@@ -1,0 +1,15 @@
+.webpage-title {
+font-variant: small-caps ;
+}
+
+.list-style {
+    font-weight: bold;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
